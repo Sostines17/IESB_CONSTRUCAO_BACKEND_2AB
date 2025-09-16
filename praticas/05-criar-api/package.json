@@ -1,10 +1,10 @@
 {
-  "name": "04-calculadora-nota-api",
+  "name": "05-criar-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon indesx.js",
+    "start": "nodemon index.js",
     "test": "jest"
   },
   "keywords": [],
